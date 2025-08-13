@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728216007 source:c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\praktikum std\m2\tpmod4\list.cpp
+	"list.h"
+	<iostream>
+
+1728215820 c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\praktikum std\m2\tpmod4\list.h
+	<iostream>
+
+1728215839 source:c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\praktikum std\m2\tpmod4\main.cpp
+	"list.h"
+	<iostream>
+
