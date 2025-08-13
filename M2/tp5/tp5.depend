@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728834519 source:c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\praktikum std\m2\tp5\main.cpp
+	"tp5.h"
+	<iostream>
+
+1728836157 c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\praktikum std\m2\tp5\tp5.h
+	<iostream>
+
+1728834268 source:c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\praktikum std\m2\tp5\tp5.cpp
+	"tp5.h"
+	<iostream>
+

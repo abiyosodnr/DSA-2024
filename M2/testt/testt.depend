@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1727252250 source:c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\praktikum std\m2\testt\main.cpp
+	<iostream>
+	"adt.h"
+
+1727252221 source:c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\praktikum std\m2\testt\impl.cpp
+	"adt.h"
+
+1727252364 c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\praktikum std\m2\testt\adt.h
+	<iostream>
+
