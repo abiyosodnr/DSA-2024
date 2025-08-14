@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1731565139 source:c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\struktur data\tugas asyncronus\tugasasynchronus\main.cpp
+	"Queue.h"
+
+1731565000 source:c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\struktur data\tugas asyncronus\tugasasynchronus\queue.cpp
+	"Queue.h"
+
+1731563385 c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\struktur data\tugas asyncronus\tugasasynchronus\queue.h
+	<iostream>
+	<string>
+

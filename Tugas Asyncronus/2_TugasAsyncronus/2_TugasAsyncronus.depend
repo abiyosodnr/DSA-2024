@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1731650037 source:c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\struktur data\tugas asyncronus\2_tugasasyncronus\big_int.cpp
+	"big_int.h"
+
+1731570336 c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\struktur data\tugas asyncronus\2_tugasasyncronus\big_int.h
+	<iostream>
+
+1731589796 source:c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\struktur data\tugas asyncronus\2_tugasasyncronus\main.cpp
+	"big_int.h"
+
