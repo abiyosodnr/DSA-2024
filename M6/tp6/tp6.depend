@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1729452072 source:c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\praktikum std\m6\tp6\main.cpp
+	"DLL.h"
+	<iostream>
+
+1729451428 source:c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\praktikum std\m6\tp6\dll.cpp
+	"DLL.h"
+	<iostream>
+
+1729451489 c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\praktikum std\m6\tp6\dll.h
+	<iostream>
+
