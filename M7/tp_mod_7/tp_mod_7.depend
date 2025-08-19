@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1730053593 source:c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\praktikum std\m7\tp_mod_7\main.cpp
+	<iostream>
+	"stack.h"
+
+1730053707 c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\praktikum std\m7\tp_mod_7\stack.h
+	<iostream>
+
+1730053550 source:c:\users\abiyoso\onedrive - telkom university\dokumen\semester 3\praktikum std\m7\tp_mod_7\stack.cpp
+	"stack.h"
+
